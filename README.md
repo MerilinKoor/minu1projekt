@@ -1,2 +1,2 @@
 # minu1projekt
-Koolituseks ja õppimiseks, testimiseks
+Koolituseks ja õppimiseks, testimiseks!!!
